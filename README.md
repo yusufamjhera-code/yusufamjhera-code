@@ -73,7 +73,7 @@
 <h2 align="center">✦ GitHub Isometric City ✦</h2>
 
 <div align="center">
-  <img src="./assets/github-city.svg" width="100%" onerror="this.style.display='none'" />
+  <img src="https://raw.githubusercontent.com/yusufamjhera-code/yusufamjhera-code/main/assets/github-city.svg" width="100%" />
 </div>
 
 <br/><br/>
