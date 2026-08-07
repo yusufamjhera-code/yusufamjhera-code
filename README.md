@@ -1,130 +1,86 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:3B82F6&height=200&section=header&text=Yusuf%20Amjherawala&fontSize=60&fontColor=ffffff&desc=Creative%20Developer%20&%20Tech%20Enthusiast&descSize=20&descAlignY=70&fontAlignY=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=YUSUF%20AMJHERAWALA&fontSize=45&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Creative%20Technologist&descSize=16&descAlignY=62&fontAlignY=42" alt="Yusuf Amjherawala" />
 </div>
+
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yusuf-amjherawala/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yusufamjhera@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <a href="https://www.linkedin.com/in/yusuf-amjherawala/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yusufamjhera@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## 🚀 About Me
+<br/>
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Yusuf Amjherawala";
-    this.role = "Software Developer";
-    this.focus = ["Clean Code", "UI/UX", "Performance"];
-    this.funFact = "I enjoy diving into spontaneous coding sessions to creatively prototype out-of-the-box ideas.";
-  }
+<div align="center">
+  <i>"Building resilient systems bridging the gap between elegant design and robust engineering."</i>
+</div>
 
-  sayHi() {
-    console.log("Thanks for stopping by — let's build something great!");
-  }
-}
+<br/><br/>
 
-const me = new Developer();
-me.sayHi();
-```
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🔭 Currently Working On
-- Building **cool, human-friendly software**
-- Designing scalable and intuitive **Full-Stack Applications**
-- Focusing on **Performance Optimization & UI Design**
-
-### 🌱 Currently Exploring
-- Advanced **Web Technologies & AI Tools**
-- Exploring out-of-the-box architectures 
-- Open-source contributions
-
-</td>
-<td valign="top" width="50%">
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="80" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="80" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="80" />
-  </div>
-</td>
-</tr>
+<table align="center" style="border:none;">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>✦ The Engineer</h3>
+      <p>
+        I specialize in constructing scalable backend architectures and intuitive, high-performance interfaces. My approach is rooted in clean code, algorithmic efficiency, and an unwavering attention to detail. 
+      </p>
+      <p>
+        When I'm not writing production-grade software, I thrive on spontaneous prototyping—exploring the boundaries of what's possible with modern web technologies and AI integration.
+      </p>
+      <br/>
+      <h3>✦ The Focus</h3>
+      <ul>
+        <li>Architecting scalable <b>Full-Stack Applications</b></li>
+        <li>Exploring <b>Generative AI</b> and intelligent systems</li>
+        <li>Optimizing complex UI/UX workflows</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/yusufamjhera-code/yusufamjhera-code/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Stats" width="100%" onerror="this.style.display='none'" />
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" />
-
-<br><br>
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind&theme=dark" />
-
-<br><br>
-
-**Backend & DevOps**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,docker&theme=dark" />
-
-<br><br>
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
+<h3 align="center">✦ Core Technologies ✦</h3>
 <br/>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <b>Languages</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,ts,js,python&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <b>Frontend</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <b>Infrastructure & Tools</b><br>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,vscode&theme=dark" /></a>
+</p>
+
+<br/><br/>
+
+<h3 align="center">✦ Metrics & Activity ✦</h3>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufamjhera-code&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&area_color=3B82F630" width="100%"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🌌 3D GitHub Contribution Graph
-*Auto-generated daily using GitHub Actions.*
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D GitHub Stats" src="./profile-3d-contrib/profile-night-view.svg" onerror="this.src='https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/demo/profile-night-view.svg'">
-</picture>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🐍 GitHub Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/main/assets/github-contribution-grid-snake-dark.svg'">
-</picture>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yusufamjhera-code&bg_color=000000&color=FFFFFF&line=555555&point=FFFFFF&area=true&hide_border=true&area_color=222222" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="./assets/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-### 💌 Let's Connect
+<br/>
 
-I'm always open to interesting conversations, collaborations, and opportunities. Reach out via any of the links above — I'd love to hear from you.
-
-<img src="https://komarev.com/ghpvc/?username=yusufamjhera-code&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
 </div>
