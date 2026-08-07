@@ -1,13 +1,13 @@
 <!-- Header Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=200&section=header&text=YUSUF%20AMJHERAWALA&fontSize=50&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Creative%20Technologist&descSize=16&descAlignY=62&fontAlignY=40" alt="Yusuf Amjherawala" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=YUSUF%20AMJHERAWALA&fontSize=50&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Creative%20Technologist&descSize=16&descAlignY=62&fontAlignY=40" alt="Yusuf Amjherawala" width="100%" />
 </div>
 
 <!-- Social Links (Ultra Minimal) -->
 <div align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/yusuf-amjherawala/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="mailto:yusufamjhera@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/yusuf-amjherawala/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yusufamjhera@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 <br/>
@@ -33,9 +33,9 @@
     </td>
     <td width="50%" valign="top">
       <h2>✦ The Toolkit</h2>
-      <p><b>Core:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,ts,js,python&theme=dark" /></a></p>
-      <p><b>Web Ecosystem:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css&theme=dark" /></a></p>
-      <p><b>Infrastructure:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,vscode&theme=dark" /></a></p>
+      <p><b>Core:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,ts,js,python" /></a></p>
+      <p><b>Web Ecosystem:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,next,tailwind,html,css" /></a></p>
+      <p><b>Infrastructure:</b> <br/><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,vscode" /></a></p>
     </td>
   </tr>
 </table>
@@ -60,5 +60,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer" width="100%" />
 </div>
