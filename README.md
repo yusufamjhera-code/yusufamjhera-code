@@ -70,7 +70,7 @@
 </div>
 <br/>
 
-<h2 align="center">✦ GitHub Isometric City ✦</h2>
+<h2 align="center">✦ 3D GitHub Skyline ✦</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/yusufamjhera-code/yusufamjhera-code/main/assets/github-city.svg" width="100%" />
