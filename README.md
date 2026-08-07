@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=YUSUF%20AMJHERAWALA&fontSize=50&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Creative%20Technologist&descSize=16&descAlignY=62&fontAlignY=40" alt="Yusuf Amjherawala" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=YUSUF%20AMJHERAWALA&fontSize=50&fontColor=ffffff&desc=Software%20Engineer%20%E2%80%A2%20Creative%20Technologist&descSize=16&descAlignY=62&fontAlignY=40" alt="Yusuf Amjherawala" width="100%" />
 </div>
 
 <!-- Social Links (Ultra Minimal) -->
@@ -12,8 +12,12 @@
 
 <br/>
 
-<!-- Modern Quote -->
+<!-- Modern Quote & 3D Elements -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="70" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="70" />
+  <br/>
   <h3>❝ Great engineering is invisible. I build systems that just work. ❞</h3>
 </div>
 
@@ -60,5 +64,5 @@
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
