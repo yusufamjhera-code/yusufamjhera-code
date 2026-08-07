@@ -44,7 +44,11 @@
   </tr>
 </table>
 
-<br/><br/>
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
 
 <h2 align="center">✦ Contribution Matrix</h2>
 <p align="center"><i>Visualizing my GitHub activity over the past year.</i></p>
@@ -58,6 +62,18 @@
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
     <img alt="3D GitHub Stats" src="./profile-3d-contrib/profile-night-view.svg" width="90%" onerror="this.src='https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/demo/profile-night-view.svg'">
   </picture>
+</div>
+
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+<br/>
+
+<h2 align="center">✦ GitHub Isometric City ✦</h2>
+
+<div align="center">
+  <img src="./assets/github-city.svg" width="100%" onerror="this.style.display='none'" />
 </div>
 
 <br/><br/>
